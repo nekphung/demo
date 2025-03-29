@@ -1,0 +1,495 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\H\u1ECDc l\u1EADp tr\u00ECnh\\ON THI CUOI KY - CSLT\\24120416\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{56508E79-FF09-406F-AF97-A56DB3E4C2B2}|NHOM4\\NHOM4.vcxproj|D:\\H\u1ECDc l\u1EADp tr\u00ECnh\\ON THI CUOI KY - CSLT\\24120416\\NHOM4\\B4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{56508E79-FF09-406F-AF97-A56DB3E4C2B2}|NHOM4\\NHOM4.vcxproj|solutionrelative:NHOM4\\B4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56508E79-FF09-406F-AF97-A56DB3E4C2B2}|NHOM4\\NHOM4.vcxproj|D:\\H\u1ECDc l\u1EADp tr\u00ECnh\\ON THI CUOI KY - CSLT\\24120416\\NHOM4\\B3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{56508E79-FF09-406F-AF97-A56DB3E4C2B2}|NHOM4\\NHOM4.vcxproj|solutionrelative:NHOM4\\B3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56508E79-FF09-406F-AF97-A56DB3E4C2B2}|NHOM4\\NHOM4.vcxproj|D:\\H\u1ECDc l\u1EADp tr\u00ECnh\\ON THI CUOI KY - CSLT\\24120416\\NHOM4\\B2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{56508E79-FF09-406F-AF97-A56DB3E4C2B2}|NHOM4\\NHOM4.vcxproj|solutionrelative:NHOM4\\B2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56508E79-FF09-406F-AF97-A56DB3E4C2B2}|NHOM4\\NHOM4.vcxproj|D:\\H\u1ECDc l\u1EADp tr\u00ECnh\\ON THI CUOI KY - CSLT\\24120416\\NHOM4\\B1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{56508E79-FF09-406F-AF97-A56DB3E4C2B2}|NHOM4\\NHOM4.vcxproj|solutionrelative:NHOM4\\B1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BE0D57D-00C2-40BC-B5B3-7B4790CA9D56}|NHOM3\\NHOM3.vcxproj|D:\\H\u1ECDc l\u1EADp tr\u00ECnh\\ON THI CUOI KY - CSLT\\24120416\\NHOM3\\B5.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3BE0D57D-00C2-40BC-B5B3-7B4790CA9D56}|NHOM3\\NHOM3.vcxproj|solutionrelative:NHOM3\\B5.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BE0D57D-00C2-40BC-B5B3-7B4790CA9D56}|NHOM3\\NHOM3.vcxproj|D:\\H\u1ECDc l\u1EADp tr\u00ECnh\\ON THI CUOI KY - CSLT\\24120416\\NHOM3\\B4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3BE0D57D-00C2-40BC-B5B3-7B4790CA9D56}|NHOM3\\NHOM3.vcxproj|solutionrelative:NHOM3\\B4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BE0D57D-00C2-40BC-B5B3-7B4790CA9D56}|NHOM3\\NHOM3.vcxproj|D:\\H\u1ECDc l\u1EADp tr\u00ECnh\\ON THI CUOI KY - CSLT\\24120416\\NHOM3\\B3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3BE0D57D-00C2-40BC-B5B3-7B4790CA9D56}|NHOM3\\NHOM3.vcxproj|solutionrelative:NHOM3\\B3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BE0D57D-00C2-40BC-B5B3-7B4790CA9D56}|NHOM3\\NHOM3.vcxproj|D:\\H\u1ECDc l\u1EADp tr\u00ECnh\\ON THI CUOI KY - CSLT\\24120416\\NHOM3\\B2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3BE0D57D-00C2-40BC-B5B3-7B4790CA9D56}|NHOM3\\NHOM3.vcxproj|solutionrelative:NHOM3\\B2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BE0D57D-00C2-40BC-B5B3-7B4790CA9D56}|NHOM3\\NHOM3.vcxproj|D:\\H\u1ECDc l\u1EADp tr\u00ECnh\\ON THI CUOI KY - CSLT\\24120416\\NHOM3\\B1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3BE0D57D-00C2-40BC-B5B3-7B4790CA9D56}|NHOM3\\NHOM3.vcxproj|solutionrelative:NHOM3\\B1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F065AA04-8C5C-4234-AB12-327D4F7EF67F}|NHOM5\\NHOM5.vcxproj|D:\\H\u1ECDc l\u1EADp tr\u00ECnh\\ON THI CUOI KY - CSLT\\24120416\\NHOM5\\B1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F065AA04-8C5C-4234-AB12-327D4F7EF67F}|NHOM5\\NHOM5.vcxproj|solutionrelative:NHOM5\\B1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56508E79-FF09-406F-AF97-A56DB3E4C2B2}|NHOM4\\NHOM4.vcxproj|D:\\H\u1ECDc l\u1EADp tr\u00ECnh\\ON THI CUOI KY - CSLT\\24120416\\NHOM4\\B5.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{56508E79-FF09-406F-AF97-A56DB3E4C2B2}|NHOM4\\NHOM4.vcxproj|solutionrelative:NHOM4\\B5.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89160325-A69F-4CB3-9AF4-D12015AB9F38}|NHOM2\\NHOM2.vcxproj|D:\\H\u1ECDc l\u1EADp tr\u00ECnh\\ON THI CUOI KY - CSLT\\24120416\\NHOM2\\B5.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{89160325-A69F-4CB3-9AF4-D12015AB9F38}|NHOM2\\NHOM2.vcxproj|solutionrelative:NHOM2\\B5.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89160325-A69F-4CB3-9AF4-D12015AB9F38}|NHOM2\\NHOM2.vcxproj|D:\\H\u1ECDc l\u1EADp tr\u00ECnh\\ON THI CUOI KY - CSLT\\24120416\\NHOM2\\B4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{89160325-A69F-4CB3-9AF4-D12015AB9F38}|NHOM2\\NHOM2.vcxproj|solutionrelative:NHOM2\\B4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89160325-A69F-4CB3-9AF4-D12015AB9F38}|NHOM2\\NHOM2.vcxproj|D:\\H\u1ECDc l\u1EADp tr\u00ECnh\\ON THI CUOI KY - CSLT\\24120416\\NHOM2\\B3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{89160325-A69F-4CB3-9AF4-D12015AB9F38}|NHOM2\\NHOM2.vcxproj|solutionrelative:NHOM2\\B3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89160325-A69F-4CB3-9AF4-D12015AB9F38}|NHOM2\\NHOM2.vcxproj|D:\\H\u1ECDc l\u1EADp tr\u00ECnh\\ON THI CUOI KY - CSLT\\24120416\\NHOM2\\B2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{89160325-A69F-4CB3-9AF4-D12015AB9F38}|NHOM2\\NHOM2.vcxproj|solutionrelative:NHOM2\\B2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89160325-A69F-4CB3-9AF4-D12015AB9F38}|NHOM2\\NHOM2.vcxproj|D:\\H\u1ECDc l\u1EADp tr\u00ECnh\\ON THI CUOI KY - CSLT\\24120416\\NHOM2\\B1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{89160325-A69F-4CB3-9AF4-D12015AB9F38}|NHOM2\\NHOM2.vcxproj|solutionrelative:NHOM2\\B1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C8B9730-A866-4F14-B605-B37264CE23A3}|B1\\B1.vcxproj|D:\\H\u1ECDc l\u1EADp tr\u00ECnh\\ON THI CUOI KY - CSLT\\24120416\\B1\\B2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1C8B9730-A866-4F14-B605-B37264CE23A3}|B1\\B1.vcxproj|solutionrelative:B1\\B2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C8B9730-A866-4F14-B605-B37264CE23A3}|B1\\B1.vcxproj|D:\\H\u1ECDc l\u1EADp tr\u00ECnh\\ON THI CUOI KY - CSLT\\24120416\\B1\\B5.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1C8B9730-A866-4F14-B605-B37264CE23A3}|B1\\B1.vcxproj|solutionrelative:B1\\B5.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C8B9730-A866-4F14-B605-B37264CE23A3}|B1\\B1.vcxproj|D:\\H\u1ECDc l\u1EADp tr\u00ECnh\\ON THI CUOI KY - CSLT\\24120416\\B1\\B4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1C8B9730-A866-4F14-B605-B37264CE23A3}|B1\\B1.vcxproj|solutionrelative:B1\\B4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F065AA04-8C5C-4234-AB12-327D4F7EF67F}|NHOM5\\NHOM5.vcxproj|D:\\H\u1ECDc l\u1EADp tr\u00ECnh\\ON THI CUOI KY - CSLT\\24120416\\NHOM5\\B4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F065AA04-8C5C-4234-AB12-327D4F7EF67F}|NHOM5\\NHOM5.vcxproj|solutionrelative:NHOM5\\B4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F065AA04-8C5C-4234-AB12-327D4F7EF67F}|NHOM5\\NHOM5.vcxproj|D:\\H\u1ECDc l\u1EADp tr\u00ECnh\\ON THI CUOI KY - CSLT\\24120416\\NHOM5\\B3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F065AA04-8C5C-4234-AB12-327D4F7EF67F}|NHOM5\\NHOM5.vcxproj|solutionrelative:NHOM5\\B3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F065AA04-8C5C-4234-AB12-327D4F7EF67F}|NHOM5\\NHOM5.vcxproj|D:\\H\u1ECDc l\u1EADp tr\u00ECnh\\ON THI CUOI KY - CSLT\\24120416\\NHOM5\\B2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F065AA04-8C5C-4234-AB12-327D4F7EF67F}|NHOM5\\NHOM5.vcxproj|solutionrelative:NHOM5\\B2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F065AA04-8C5C-4234-AB12-327D4F7EF67F}|NHOM5\\NHOM5.vcxproj|D:\\H\u1ECDc l\u1EADp tr\u00ECnh\\ON THI CUOI KY - CSLT\\24120416\\NHOM5\\input.csv||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{F065AA04-8C5C-4234-AB12-327D4F7EF67F}|NHOM5\\NHOM5.vcxproj|solutionrelative:NHOM5\\input.csv||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F065AA04-8C5C-4234-AB12-327D4F7EF67F}|NHOM5\\NHOM5.vcxproj|D:\\H\u1ECDc l\u1EADp tr\u00ECnh\\ON THI CUOI KY - CSLT\\24120416\\NHOM5\\output.csv||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{F065AA04-8C5C-4234-AB12-327D4F7EF67F}|NHOM5\\NHOM5.vcxproj|solutionrelative:NHOM5\\output.csv||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C8B9730-A866-4F14-B605-B37264CE23A3}|B1\\B1.vcxproj|D:\\H\u1ECDc l\u1EADp tr\u00ECnh\\ON THI CUOI KY - CSLT\\24120416\\B1\\B3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1C8B9730-A866-4F14-B605-B37264CE23A3}|B1\\B1.vcxproj|solutionrelative:B1\\B3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C8B9730-A866-4F14-B605-B37264CE23A3}|B1\\B1.vcxproj|D:\\H\u1ECDc l\u1EADp tr\u00ECnh\\ON THI CUOI KY - CSLT\\24120416\\B1\\B1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1C8B9730-A866-4F14-B605-B37264CE23A3}|B1\\B1.vcxproj|solutionrelative:B1\\B1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BE0D57D-00C2-40BC-B5B3-7B4790CA9D56}|NHOM3\\NHOM3.vcxproj|D:\\H\u1ECDc l\u1EADp tr\u00ECnh\\ON THI CUOI KY - CSLT\\24120416\\NHOM3\\Matrix.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{3BE0D57D-00C2-40BC-B5B3-7B4790CA9D56}|NHOM3\\NHOM3.vcxproj|solutionrelative:NHOM3\\Matrix.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C8B9730-A866-4F14-B605-B37264CE23A3}|B1\\B1.vcxproj|D:\\H\u1ECDc l\u1EADp tr\u00ECnh\\ON THI CUOI KY - CSLT\\24120416\\B1\\Matrix.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{1C8B9730-A866-4F14-B605-B37264CE23A3}|B1\\B1.vcxproj|solutionrelative:B1\\Matrix.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 12,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "B2.cpp",
+              "DocumentMoniker": "D:\\H\u1ECDc l\u1EADp tr\u00ECnh\\ON THI CUOI KY - CSLT\\24120416\\NHOM2\\B2.cpp",
+              "RelativeDocumentMoniker": "NHOM2\\B2.cpp",
+              "ToolTip": "D:\\H\u1ECDc l\u1EADp tr\u00ECnh\\ON THI CUOI KY - CSLT\\24120416\\NHOM2\\B2.cpp",
+              "RelativeToolTip": "NHOM2\\B2.cpp",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAA4AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-24T06:36:09.333Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "B1.cpp",
+              "DocumentMoniker": "D:\\H\u1ECDc l\u1EADp tr\u00ECnh\\ON THI CUOI KY - CSLT\\24120416\\NHOM3\\B1.cpp",
+              "RelativeDocumentMoniker": "NHOM3\\B1.cpp",
+              "ToolTip": "D:\\H\u1ECDc l\u1EADp tr\u00ECnh\\ON THI CUOI KY - CSLT\\24120416\\NHOM3\\B1.cpp",
+              "RelativeToolTip": "NHOM3\\B1.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-25T00:52:55.493Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "B1.cpp",
+              "DocumentMoniker": "D:\\H\u1ECDc l\u1EADp tr\u00ECnh\\ON THI CUOI KY - CSLT\\24120416\\NHOM2\\B1.cpp",
+              "RelativeDocumentMoniker": "NHOM2\\B1.cpp",
+              "ToolTip": "D:\\H\u1ECDc l\u1EADp tr\u00ECnh\\ON THI CUOI KY - CSLT\\24120416\\NHOM2\\B1.cpp",
+              "RelativeToolTip": "NHOM2\\B1.cpp",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-24T01:40:20.514Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "B3.cpp",
+              "DocumentMoniker": "D:\\H\u1ECDc l\u1EADp tr\u00ECnh\\ON THI CUOI KY - CSLT\\24120416\\NHOM2\\B3.cpp",
+              "RelativeDocumentMoniker": "NHOM2\\B3.cpp",
+              "ToolTip": "D:\\H\u1ECDc l\u1EADp tr\u00ECnh\\ON THI CUOI KY - CSLT\\24120416\\NHOM2\\B3.cpp",
+              "RelativeToolTip": "NHOM2\\B3.cpp",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-24T06:51:35.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "B4.cpp",
+              "DocumentMoniker": "D:\\H\u1ECDc l\u1EADp tr\u00ECnh\\ON THI CUOI KY - CSLT\\24120416\\NHOM2\\B4.cpp",
+              "RelativeDocumentMoniker": "NHOM2\\B4.cpp",
+              "ToolTip": "D:\\H\u1ECDc l\u1EADp tr\u00ECnh\\ON THI CUOI KY - CSLT\\24120416\\NHOM2\\B4.cpp",
+              "RelativeToolTip": "NHOM2\\B4.cpp",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAAEkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-24T15:02:48.254Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "B5.cpp",
+              "DocumentMoniker": "D:\\H\u1ECDc l\u1EADp tr\u00ECnh\\ON THI CUOI KY - CSLT\\24120416\\NHOM2\\B5.cpp",
+              "RelativeDocumentMoniker": "NHOM2\\B5.cpp",
+              "ToolTip": "D:\\H\u1ECDc l\u1EADp tr\u00ECnh\\ON THI CUOI KY - CSLT\\24120416\\NHOM2\\B5.cpp",
+              "RelativeToolTip": "NHOM2\\B5.cpp",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAEQAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-24T22:31:32.624Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "B2.cpp",
+              "DocumentMoniker": "D:\\H\u1ECDc l\u1EADp tr\u00ECnh\\ON THI CUOI KY - CSLT\\24120416\\NHOM3\\B2.cpp",
+              "RelativeDocumentMoniker": "NHOM3\\B2.cpp",
+              "ToolTip": "D:\\H\u1ECDc l\u1EADp tr\u00ECnh\\ON THI CUOI KY - CSLT\\24120416\\NHOM3\\B2.cpp",
+              "RelativeToolTip": "NHOM3\\B2.cpp",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAAB0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-25T05:30:37.705Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "B3.cpp",
+              "DocumentMoniker": "D:\\H\u1ECDc l\u1EADp tr\u00ECnh\\ON THI CUOI KY - CSLT\\24120416\\NHOM3\\B3.cpp",
+              "RelativeDocumentMoniker": "NHOM3\\B3.cpp",
+              "ToolTip": "D:\\H\u1ECDc l\u1EADp tr\u00ECnh\\ON THI CUOI KY - CSLT\\24120416\\NHOM3\\B3.cpp",
+              "RelativeToolTip": "NHOM3\\B3.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-04T03:13:45.513Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "B4.cpp",
+              "DocumentMoniker": "D:\\H\u1ECDc l\u1EADp tr\u00ECnh\\ON THI CUOI KY - CSLT\\24120416\\NHOM3\\B4.cpp",
+              "RelativeDocumentMoniker": "NHOM3\\B4.cpp",
+              "ToolTip": "D:\\H\u1ECDc l\u1EADp tr\u00ECnh\\ON THI CUOI KY - CSLT\\24120416\\NHOM3\\B4.cpp",
+              "RelativeToolTip": "NHOM3\\B4.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-04T03:30:08.79Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "B5.cpp",
+              "DocumentMoniker": "D:\\H\u1ECDc l\u1EADp tr\u00ECnh\\ON THI CUOI KY - CSLT\\24120416\\NHOM3\\B5.cpp",
+              "RelativeDocumentMoniker": "NHOM3\\B5.cpp",
+              "ToolTip": "D:\\H\u1ECDc l\u1EADp tr\u00ECnh\\ON THI CUOI KY - CSLT\\24120416\\NHOM3\\B5.cpp",
+              "RelativeToolTip": "NHOM3\\B5.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-04T03:53:13.615Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "B5.cpp",
+              "DocumentMoniker": "D:\\H\u1ECDc l\u1EADp tr\u00ECnh\\ON THI CUOI KY - CSLT\\24120416\\NHOM4\\B5.cpp",
+              "RelativeDocumentMoniker": "NHOM4\\B5.cpp",
+              "ToolTip": "D:\\H\u1ECDc l\u1EADp tr\u00ECnh\\ON THI CUOI KY - CSLT\\24120416\\NHOM4\\B5.cpp",
+              "RelativeToolTip": "NHOM4\\B5.cpp",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA8AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-10T02:21:32.432Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "B4.cpp",
+              "DocumentMoniker": "D:\\H\u1ECDc l\u1EADp tr\u00ECnh\\ON THI CUOI KY - CSLT\\24120416\\NHOM4\\B4.cpp",
+              "RelativeDocumentMoniker": "NHOM4\\B4.cpp",
+              "ToolTip": "D:\\H\u1ECDc l\u1EADp tr\u00ECnh\\ON THI CUOI KY - CSLT\\24120416\\NHOM4\\B4.cpp",
+              "RelativeToolTip": "NHOM4\\B4.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-10T02:12:00.141Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "B1.cpp",
+              "DocumentMoniker": "D:\\H\u1ECDc l\u1EADp tr\u00ECnh\\ON THI CUOI KY - CSLT\\24120416\\NHOM5\\B1.cpp",
+              "RelativeDocumentMoniker": "NHOM5\\B1.cpp",
+              "ToolTip": "D:\\H\u1ECDc l\u1EADp tr\u00ECnh\\ON THI CUOI KY - CSLT\\24120416\\NHOM5\\B1.cpp",
+              "RelativeToolTip": "NHOM5\\B1.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-10T06:00:24.613Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "B1.cpp",
+              "DocumentMoniker": "D:\\H\u1ECDc l\u1EADp tr\u00ECnh\\ON THI CUOI KY - CSLT\\24120416\\NHOM4\\B1.cpp",
+              "RelativeDocumentMoniker": "NHOM4\\B1.cpp",
+              "ToolTip": "D:\\H\u1ECDc l\u1EADp tr\u00ECnh\\ON THI CUOI KY - CSLT\\24120416\\NHOM4\\B1.cpp",
+              "RelativeToolTip": "NHOM4\\B1.cpp",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAABIAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-08T13:23:03.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "B2.cpp",
+              "DocumentMoniker": "D:\\H\u1ECDc l\u1EADp tr\u00ECnh\\ON THI CUOI KY - CSLT\\24120416\\NHOM4\\B2.cpp",
+              "RelativeDocumentMoniker": "NHOM4\\B2.cpp",
+              "ToolTip": "D:\\H\u1ECDc l\u1EADp tr\u00ECnh\\ON THI CUOI KY - CSLT\\24120416\\NHOM4\\B2.cpp",
+              "RelativeToolTip": "NHOM4\\B2.cpp",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAABoAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-08T23:05:21.567Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "B3.cpp",
+              "DocumentMoniker": "D:\\H\u1ECDc l\u1EADp tr\u00ECnh\\ON THI CUOI KY - CSLT\\24120416\\NHOM4\\B3.cpp",
+              "RelativeDocumentMoniker": "NHOM4\\B3.cpp",
+              "ToolTip": "D:\\H\u1ECDc l\u1EADp tr\u00ECnh\\ON THI CUOI KY - CSLT\\24120416\\NHOM4\\B3.cpp",
+              "RelativeToolTip": "NHOM4\\B3.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-08T23:27:17.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "B2.cpp",
+              "DocumentMoniker": "D:\\H\u1ECDc l\u1EADp tr\u00ECnh\\ON THI CUOI KY - CSLT\\24120416\\B1\\B2.cpp",
+              "RelativeDocumentMoniker": "B1\\B2.cpp",
+              "ToolTip": "D:\\H\u1ECDc l\u1EADp tr\u00ECnh\\ON THI CUOI KY - CSLT\\24120416\\B1\\B2.cpp",
+              "RelativeToolTip": "B1\\B2.cpp",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-21T22:39:57.29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "B5.cpp",
+              "DocumentMoniker": "D:\\H\u1ECDc l\u1EADp tr\u00ECnh\\ON THI CUOI KY - CSLT\\24120416\\B1\\B5.cpp",
+              "RelativeDocumentMoniker": "B1\\B5.cpp",
+              "ToolTip": "D:\\H\u1ECDc l\u1EADp tr\u00ECnh\\ON THI CUOI KY - CSLT\\24120416\\B1\\B5.cpp",
+              "RelativeToolTip": "B1\\B5.cpp",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAAB8AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-24T01:22:59.592Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "B4.cpp",
+              "DocumentMoniker": "D:\\H\u1ECDc l\u1EADp tr\u00ECnh\\ON THI CUOI KY - CSLT\\24120416\\B1\\B4.cpp",
+              "RelativeDocumentMoniker": "B1\\B4.cpp",
+              "ToolTip": "D:\\H\u1ECDc l\u1EADp tr\u00ECnh\\ON THI CUOI KY - CSLT\\24120416\\B1\\B4.cpp",
+              "RelativeToolTip": "B1\\B4.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-03T13:25:38.193Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "B4.cpp",
+              "DocumentMoniker": "D:\\H\u1ECDc l\u1EADp tr\u00ECnh\\ON THI CUOI KY - CSLT\\24120416\\NHOM5\\B4.cpp",
+              "RelativeDocumentMoniker": "NHOM5\\B4.cpp",
+              "ToolTip": "D:\\H\u1ECDc l\u1EADp tr\u00ECnh\\ON THI CUOI KY - CSLT\\24120416\\NHOM5\\B4.cpp",
+              "RelativeToolTip": "NHOM5\\B4.cpp",
+              "ViewState": "AgIAABEAAAAAAAAAAAAkwB0AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-10T09:47:14.878Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "B3.cpp",
+              "DocumentMoniker": "D:\\H\u1ECDc l\u1EADp tr\u00ECnh\\ON THI CUOI KY - CSLT\\24120416\\NHOM5\\B3.cpp",
+              "RelativeDocumentMoniker": "NHOM5\\B3.cpp",
+              "ToolTip": "D:\\H\u1ECDc l\u1EADp tr\u00ECnh\\ON THI CUOI KY - CSLT\\24120416\\NHOM5\\B3.cpp",
+              "RelativeToolTip": "NHOM5\\B3.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-10T07:10:38.026Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "B2.cpp",
+              "DocumentMoniker": "D:\\H\u1ECDc l\u1EADp tr\u00ECnh\\ON THI CUOI KY - CSLT\\24120416\\NHOM5\\B2.cpp",
+              "RelativeDocumentMoniker": "NHOM5\\B2.cpp",
+              "ToolTip": "D:\\H\u1ECDc l\u1EADp tr\u00ECnh\\ON THI CUOI KY - CSLT\\24120416\\NHOM5\\B2.cpp",
+              "RelativeToolTip": "NHOM5\\B2.cpp",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAAEMAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-10T06:18:36.544Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "input.csv",
+              "DocumentMoniker": "D:\\H\u1ECDc l\u1EADp tr\u00ECnh\\ON THI CUOI KY - CSLT\\24120416\\NHOM5\\input.csv",
+              "RelativeDocumentMoniker": "NHOM5\\input.csv",
+              "ToolTip": "D:\\H\u1ECDc l\u1EADp tr\u00ECnh\\ON THI CUOI KY - CSLT\\24120416\\NHOM5\\input.csv",
+              "RelativeToolTip": "NHOM5\\input.csv",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002120|",
+              "WhenOpened": "2025-01-10T06:01:32.297Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "output.csv",
+              "DocumentMoniker": "D:\\H\u1ECDc l\u1EADp tr\u00ECnh\\ON THI CUOI KY - CSLT\\24120416\\NHOM5\\output.csv",
+              "RelativeDocumentMoniker": "NHOM5\\output.csv",
+              "ToolTip": "D:\\H\u1ECDc l\u1EADp tr\u00ECnh\\ON THI CUOI KY - CSLT\\24120416\\NHOM5\\output.csv",
+              "RelativeToolTip": "NHOM5\\output.csv",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002120|",
+              "WhenOpened": "2025-01-10T07:04:54.813Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "B3.cpp",
+              "DocumentMoniker": "D:\\H\u1ECDc l\u1EADp tr\u00ECnh\\ON THI CUOI KY - CSLT\\24120416\\B1\\B3.cpp",
+              "RelativeDocumentMoniker": "B1\\B3.cpp",
+              "ToolTip": "D:\\H\u1ECDc l\u1EADp tr\u00ECnh\\ON THI CUOI KY - CSLT\\24120416\\B1\\B3.cpp",
+              "RelativeToolTip": "B1\\B3.cpp",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAADMAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-22T06:19:16.558Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Matrix.txt",
+              "DocumentMoniker": "D:\\H\u1ECDc l\u1EADp tr\u00ECnh\\ON THI CUOI KY - CSLT\\24120416\\NHOM3\\Matrix.txt",
+              "RelativeDocumentMoniker": "NHOM3\\Matrix.txt",
+              "ToolTip": "D:\\H\u1ECDc l\u1EADp tr\u00ECnh\\ON THI CUOI KY - CSLT\\24120416\\NHOM3\\Matrix.txt",
+              "RelativeToolTip": "NHOM3\\Matrix.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-12-25T05:29:34Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Matrix.txt",
+              "DocumentMoniker": "D:\\H\u1ECDc l\u1EADp tr\u00ECnh\\ON THI CUOI KY - CSLT\\24120416\\B1\\Matrix.txt",
+              "RelativeDocumentMoniker": "B1\\Matrix.txt",
+              "ToolTip": "D:\\H\u1ECDc l\u1EADp tr\u00ECnh\\ON THI CUOI KY - CSLT\\24120416\\B1\\Matrix.txt",
+              "RelativeToolTip": "B1\\Matrix.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-12-21T15:55:49.574Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "B1.cpp",
+              "DocumentMoniker": "D:\\H\u1ECDc l\u1EADp tr\u00ECnh\\ON THI CUOI KY - CSLT\\24120416\\B1\\B1.cpp",
+              "RelativeDocumentMoniker": "B1\\B1.cpp",
+              "ToolTip": "D:\\H\u1ECDc l\u1EADp tr\u00ECnh\\ON THI CUOI KY - CSLT\\24120416\\B1\\B1.cpp",
+              "RelativeToolTip": "B1\\B1.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-21T15:21:07.563Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

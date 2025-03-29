@@ -1,0 +1,10 @@
+﻿  B3.cpp
+D:\Học lập trình\ON THI CUOI KY - CSLT\24120416\NHOM3\B3.cpp(148,18): warning C4566: character represented by universal-character-name '\u1EBF' cannot be represented in the current code page (1258)
+D:\Học lập trình\ON THI CUOI KY - CSLT\24120416\NHOM3\B3.cpp(148,18): warning C4566: character represented by universal-character-name '\u1EE9' cannot be represented in the current code page (1258)
+D:\Học lập trình\ON THI CUOI KY - CSLT\24120416\NHOM3\B3.cpp(148,18): warning C4566: character represented by universal-character-name '\u1EA5' cannot be represented in the current code page (1258)
+D:\Học lập trình\ON THI CUOI KY - CSLT\24120416\NHOM3\B3.cpp(151,18): warning C4566: character represented by universal-character-name '\u1EBF' cannot be represented in the current code page (1258)
+D:\Học lập trình\ON THI CUOI KY - CSLT\24120416\NHOM3\B3.cpp(151,18): warning C4566: character represented by universal-character-name '\u1EE9' cannot be represented in the current code page (1258)
+D:\Học lập trình\ON THI CUOI KY - CSLT\24120416\NHOM3\B3.cpp(156,18): warning C4566: character represented by universal-character-name '\u1EBF' cannot be represented in the current code page (1258)
+D:\Học lập trình\ON THI CUOI KY - CSLT\24120416\NHOM3\B3.cpp(156,18): warning C4566: character represented by universal-character-name '\u1EE3' cannot be represented in the current code page (1258)
+D:\Học lập trình\ON THI CUOI KY - CSLT\24120416\NHOM3\B3.cpp(156,18): warning C4566: character represented by universal-character-name '\u1EA5' cannot be represented in the current code page (1258)
+  NHOM3.vcxproj -> D:\Học lập trình\ON THI CUOI KY - CSLT\24120416\x64\Debug\NHOM3.exe
