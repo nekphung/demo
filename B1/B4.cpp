@@ -9,7 +9,7 @@ bool isPrime(int n) {
     }
     return true;
 }
-
+// Sửa ở đây
 bool CheckNT(int a[], int n) {
     for (int i = 0; i < n; i++) {
         if (!isPrime(a[i])) {
